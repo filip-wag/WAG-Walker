@@ -1,0 +1,9 @@
+[submodule "CommonModule"]
+	path = CommonModule
+	url = https://github.com/filip-wag/CommonModule
+[submodule "ComponentModule"]
+	path = ComponentModule
+	url = https://github.com/filip-wag/ComponentModule
+[submodule "NetworkingModule"]
+	path = NetworkingModule
+	url = https://github.com/filip-wag/NetworkingModule
